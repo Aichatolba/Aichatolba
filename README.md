@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aicha, a passionate Data Analyst from Mauritania 👨‍💻 Living and  working  in Barcelona 🚀</div>  
+### <div align="center">I'm Aicha, a passionate Data Analyst 👩‍💻  from Mauritania  Living and  working  in Barcelona 🇪🇸</div>  
   
 
 - 🔭 I’m currently working as a Data Process Analyst  
@@ -27,35 +27,35 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Backend  
+### Data Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps  
+### DevOps & Data Visualization  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
 </div>
 
 </td></tr></table>  
