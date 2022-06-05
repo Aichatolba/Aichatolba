@@ -2,10 +2,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-<img src="https://exaud.com/wp-content/uploads/2020/09/software-skills.png" align="center" style="width: 100%" /> 
-
-<div align="center">I'm Aicha, a passionate Data Analyst 👩‍💻  from Mauritania  Living and  working  in Barcelona 🇪🇸</div>  
+### <div align="center"> I'm Aicha, a passionate Data Analyst 👩‍💻  from Mauritania  Living and  working  in Barcelona 🇪🇸 </div>
   
+<img src="https://exaud.com/wp-content/uploads/2020/09/software-skills.png" align="center" style="width: 50%" /> 
+
 
 - 🔭 I’m currently working as a Data Process Analyst  
   
