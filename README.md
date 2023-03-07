@@ -3,7 +3,7 @@
 
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Aicha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aicha-ahmed-toulba/)](https://www.linkedin.com/in/aicha-ahmed-toulba/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Aicha](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/)
 
 <div align="left"> A passionate Data Analyst 👩‍💻  from Mauritania  Living and  working  in Barcelona 
  </div>
@@ -58,15 +58,7 @@ My Projects
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/AishaAhmedToulba" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aicha-ahmed-toulba/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
   
 
 <br/>  
