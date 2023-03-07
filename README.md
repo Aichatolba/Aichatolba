@@ -23,8 +23,11 @@ My Projects
 <p align="center">
  <a href="https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners"> <img src="https://github.com/AishaAhmedToulba/AishaAhmedToulba/blob/main/images/projects/2560px-Medal_Nobel_Peace_Prize.jpg" width="47%" /> </a>
 </p>
+
 ## My Skill Set  
+
 ### Data Tools  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
