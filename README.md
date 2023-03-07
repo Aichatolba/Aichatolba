@@ -21,7 +21,8 @@
 My Projects
 --- 
 <p align="left">
- <a href="https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners"> <img src="https://github.com/AishaAhmedToulba/AishaAhmedToulba/blob/main/images/projects/Nobel%20Prize%20Winners.jpg" width="47%" /> </a>
+ <a href="https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners"> <img src="https://github.com/AishaAhmedToulba/AishaAhmedToulba/blob/main/images/projects/Nobel%20Prize%20Winners.jpg" width="30%" /> </a>
+ <a href="https://github.com/AishaAhmedToulba/Kaggle-data-science-survey-Analysis"> <img src="https://github.com/AishaAhmedToulba/AishaAhmedToulba/blob/main/images/projects/kaggle%20data%20science.jpg" width="30%" /> </a>
 </p>
 
 ## My Skill Set  
