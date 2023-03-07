@@ -11,20 +11,14 @@
 
 - 🔭 I’m currently working as a Data Process Analyst  
   
-
 - 🌱 I’m currently learning Python and SAS  
   
-
 - ❓ Ask me about anything related to Data Analysis and related technologies  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -34,8 +28,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Data Tools  
 <div align="center">  
@@ -51,8 +43,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps & Data Visualization  
 <div align="center">  
