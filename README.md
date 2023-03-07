@@ -4,8 +4,11 @@
 
 ### <div align="center"> I'm Aicha, a passionate Data Analyst 👩‍💻  from Mauritania  Living and  working  in Barcelona 🇪🇸 </div>
   
-<img src="https://exaud.com/wp-content/uploads/2020/09/software-skills.png" align="center" style="width: 50%" /> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdrbaRuwAtFnDNXzMA4n_tybx1pcD1AHXAw&usqp=CAU" align="center" style="width: 50%" /> 
 
+- :rainbow: **Pronouns**: She/Her/Hers 
+- :computer: **Coding**: R, Python, SQL, 
+- 👩‍🏫 **Sharer of Code**: I share most of my personal projects here.
 
 - 🔭 I’m currently working as a Data Process Analyst  
   
