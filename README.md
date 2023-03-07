@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aicha Ahmed! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdrbaRuwAtFnDNXzMA4n_tybx1pcD1AHXAw&usqp=CAU" width="230">
+<img align='left' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdrbaRuwAtFnDNXzMA4n_tybx1pcD1AHXAw&usqp=CAU" width="230">
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
 </div>  
