@@ -20,14 +20,6 @@
   
 <br/>  
 
-
-My Projects
---- 
-<p align="left">
- <a href="https://github.com/AishaAhmedToulba/visual-history-of-nobel-prize-winners"> <img src="https://github.com/AishaAhmedToulba/AishaAhmedToulba/blob/main/images/projects/Nobel%20Prize%20Winners.jpg" width="47%" /> </a>
- <a href="https://github.com/AishaAhmedToulba/Kaggle-data-science-survey-Analysis"> <img src="https://github.com/AishaAhmedToulba/AishaAhmedToulba/blob/main/images/projects/kaggle%20data%20science.jpg" width="47%" /> </a>
-</p>
-
 ## My Skill Set  
 
 ### Data Tools  
@@ -66,5 +58,4 @@ My Projects
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Aicha's github stats](https://github-readme-stats.vercel.app/api?username=AishaAhmedToulba&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishaAhmedToulba&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AishaAhmedToulba&theme=dark)](https://git.io/streak-stats)
