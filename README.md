@@ -12,7 +12,7 @@
 
 - :computer: **Coding**: R, Python, SQL
   
-- 👩‍🏫 **Sharer of Code**: I share most of my personal projects here.
+- 👩‍🏫 **Sharer of Code**: I share most of my personal projects here : https://aishatoulba.github.io/
   
 - 🔭 I’m currently working as a Data Process Analyst
   
