@@ -16,6 +16,15 @@
   
 - 🌱 I’m currently learning Python and SAS
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pemistahl&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemistahl&layout=compact&hide_title=true&hide_border=true&langs_count=10" /> |
+
+
+
+
+
+
+
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aishatoulba)](https://github.com/Aishatoulba/github-readme-stats)
     
 <br/>  
