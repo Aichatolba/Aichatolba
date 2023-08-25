@@ -7,32 +7,73 @@
 
 <div align="left"> A passionate Data Analyst 👩‍💻  from Mauritania  Living and  working  in Barcelona
  </div>
+  :rainbow: ** Pronouns**: She/Her/Hers 
 
-- :rainbow: **Pronouns**: She/Her/Hers 
-- :computer: **Coding**: R, Python, SQL, 
+- :computer: **Coding**: R, Python, SQL
+  
 - 👩‍🏫 **Sharer of Code**: I share most of my personal projects here.
-
-- 🔭 I’m currently working as a Data Process Analyst  
+  
+- 🔭 I’m currently working as a Data Process Analyst
   
 - 🌱 I’m currently learning Python and SAS
 
-## My Skill Set 
 
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
-</div>
+<h3 align="left">Tech stack and Tools:</h3>
+<table>
+  <tr>
+    <td>
+      <strong>Database:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </td>
+    <td>
+      <strong>Data Analysis:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
+      <img src="https://cdn.cdnlogo.com/logos/m/53/microsoft-excel.svg" alt="Excel" width="40" height="40"/>
+    </td>
+    <td>
+     <strong>Data visualization:</strong><br>
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+    </td>
+    <td>
+      <strong>Tools:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    </td>
+   
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aishatoulba)](https://github.com/anuraghazra/github-readme-stats)
-</td><td valign="top" width="33%">
-</td></tr></table>      
-<br/>  
 
+<!-- GitHub Stats and Streak Stats -->
+<table>
+  <tr>
+    <td>
+      <p><img src="https://github-readme-stats.vercel.app/api?username=Aishatoulba&show_icons=true&locale=en" alt="Aishatoulba" /></p>
+    </td>
+    <td>
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishatoulba&" alt="Aishatoulba" /></p>
+    </td>
+  </tr>
+</table>
+
+
+<!-- GitHub Profile Summary Cards -->
+<table>
+  <tr>
+   <td>
+      <!-- Most Used Language Card -->
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishatoulba&show_icons=true&locale=en&layout=compact" alt="Most Used Language Card" />
+    </td>
+    <td>
+      <!-- Repos per Language Card -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aishatoulba&theme=default" alt="Repos per Language Card" />
+    </td>
+    <td>
+      <!-- Most Commit Language Card -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aishatoulba&theme=default" alt="Most Commit Language Card" />
+    </td>
+  </tr>
+</table>
