@@ -43,6 +43,8 @@
 
 </td></tr></table>  
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aishatoulba)](https://github.com/Aishatoulba/github-readme-stats)
+
 <br/>  
 <br/>  
 
