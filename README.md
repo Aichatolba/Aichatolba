@@ -36,6 +36,13 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishatoulba&show_icons=true&locale=en&layout=compact" alt="Most Used Language Card" />
     </td>
 
+ <td>
+      <!-- Repos per Language Card -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aishatoulba&theme=default" alt="Repos per Language Card" />
+    </td>
+
+
+
 </td><td valign="top" width="33%">
 </td></tr></table>      
 <br/>  
