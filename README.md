@@ -31,6 +31,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
 </div>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aishatoulba)](https://github.com/anuraghazra/github-readme-stats)
+
 <td>
       <!-- Most Used Language Card -->
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishatoulba&show_icons=true&locale=en&layout=compact" alt="Most Used Language Card" />
