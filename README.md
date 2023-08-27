@@ -58,22 +58,3 @@
     </td>
   </tr>
 </table>
-
-
-<!-- GitHub Profile Summary Cards -->
-<table>
-  <tr>
-   <td>
-      <!-- Most Used Language Card -->
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishatoulba&show_icons=true&locale=en&layout=compact" alt="Most Used Language Card" />
-    </td>
-    <td>
-      <!-- Repos per Language Card -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aishatoulba&theme=default" alt="Repos per Language Card" />
-    </td>
-    <td>
-      <!-- Most Commit Language Card -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aishatoulba&theme=default" alt="Most Commit Language Card" />
-    </td>
-  </tr>
-</table>
