@@ -1,6 +1,7 @@
 <h2> Hi, I'm Aicha Ahmed! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Aicha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aicha-ahmed-toulba/)](https://www.linkedin.com/in/aicha-ahmed-toulba/)
+[![GitHub Aisha](https://img.shields.io/github/followers/Aishatoulba?label=follow&style=social)](https://github.com/Aishatoulba)
 
 <img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdrbaRuwAtFnDNXzMA4n_tybx1pcD1AHXAw&usqp=CAU" width="230">
 
