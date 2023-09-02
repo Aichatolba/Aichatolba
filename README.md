@@ -50,11 +50,11 @@
 <!-- GitHub Stats and Streak Stats -->
 <table>
   <tr>
+   <td>
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishatoulba&" alt="Aishatoulba" /></p>
+    </td>   
     <td>
       <p><img src="https://github-readme-stats.vercel.app/api?username=Aishatoulba&show_icons=true&locale=en" alt="Aishatoulba" /></p>
-    </td>
-    <td>
-      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishatoulba&" alt="Aishatoulba" /></p>
     </td>
   </tr>
 </table>
