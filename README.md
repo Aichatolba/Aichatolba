@@ -11,7 +11,7 @@
   
 - 👩‍🏫 **Sharer of Code**: I share most of my personal projects here : https://aishatoulba.github.io/
   
-- 🔭 I’m currently working as a Data Process Analyst
+- 🔭 I’m currently working as a Data Process Senior Executive
   
 - 🌱 I’m currently learning Python and SAS
 
