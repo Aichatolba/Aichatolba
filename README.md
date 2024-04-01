@@ -1,4 +1,8 @@
-<h2> Hi, I'm Aicha Ahmed! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aicha....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 <img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdrbaRuwAtFnDNXzMA4n_tybx1pcD1AHXAw&usqp=CAU" width="230">
@@ -50,6 +54,7 @@
   <tr>
    <td>
       <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishatoulba&" alt="Aishatoulba" /></p>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aishatoulba&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     </td>   
   </tr>
 </table>
