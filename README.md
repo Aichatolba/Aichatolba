@@ -6,7 +6,7 @@
 
 <img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdrbaRuwAtFnDNXzMA4n_tybx1pcD1AHXAw&usqp=CAU" width="230">
 
-<div align="left"> A passionate Data Analyst 👩‍💻  from Mauritania  living and  working  in Barcelona
+<div align="left"> A passionate Data Analyst 👩‍💻  living and  working  in Barcelona
  </div>
   :rainbow: ** Pronouns**: She/Her/Hers 
 
